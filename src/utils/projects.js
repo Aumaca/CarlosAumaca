@@ -2,14 +2,14 @@ import translations from '@/utils/projectTranslations'
 
 const projects = [
   {
-    name: 'Marium',
+    name: 'marium',
     featured: true,
     stack: [],
     desktopImages: ['marium/image.png'],
     mobileImages: ['marium/image copy.png', 'marium/image copy 2.png'],
     description: {
-      en: `A quiet place for the things you love.\nMarium is one calm profile for your photos, albums, films, series, anime and books, shared with a link. Free, with no feed and no noise.`,
-      pt: `Um lugar tranquilo para as coisas que você ama.\nO Marium é um perfil calmo para suas fotos, álbuns, filmes, séries, animes e livros, compartilhado com um link. Gratuito, sem feed e sem ruído.`
+      en: `A quiet place for the things you love.\nmarium is one calm profile for your photos, albums, films, series, anime and books, shared with a link. Free, with no feed and no noise.`,
+      pt: `Um lugar tranquilo para as coisas que você ama.\nO marium é um perfil calmo para suas fotos, álbuns, filmes, séries, animes e livros, compartilhado com um link. Gratuito, sem feed e sem ruído.`
     }
   },
   {

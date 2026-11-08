@@ -1,9 +1,9 @@
 // Spanish, German and Japanese descriptions, keyed by project name.
 export default {
-  Marium: {
-    es: `Un lugar tranquilo para las cosas que amas.\nMarium es un perfil sereno para tus fotos, álbumes, películas, series, anime y libros, que se comparte con un enlace. Gratis, sin feed y sin ruido.`,
-    de: `Ein ruhiger Ort für die Dinge, die du liebst.\nMarium ist ein ruhiges Profil für deine Fotos, Alben, Filme, Serien, Anime und Bücher, das du per Link teilst. Kostenlos, ohne Feed und ohne Lärm.`,
-    ja: `好きなものを置いておく、静かな場所。\nMariumは、写真、アルバム、映画、ドラマ、アニメ、本をひとつにまとめた穏やかなプロフィールで、リンクで共有できます。無料で、フィードもノイズもありません。`
+  marium: {
+    es: `Un lugar tranquilo para las cosas que amas.\nmarium es un perfil sereno para tus fotos, álbumes, películas, series, anime y libros, que se comparte con un enlace. Gratis, sin feed y sin ruido.`,
+    de: `Ein ruhiger Ort für die Dinge, die du liebst.\nmarium ist ein ruhiges Profil für deine Fotos, Alben, Filme, Serien, Anime und Bücher, das du per Link teilst. Kostenlos, ohne Feed und ohne Lärm.`,
+    ja: `好きなものを置いておく、静かな場所。\nmariumは、写真、アルバム、映画、ドラマ、アニメ、本をひとつにまとめた穏やかなプロフィールで、リンクで共有できます。無料で、フィードもノイズもありません。`
   },
   'Evamo: Digital Catalog': {
     es: `Este proyecto se desarrolló para la empresa multinacional Evamo - Pump Technology Solutions.\nAnte la necesidad de crear un catálogo en línea intuitivo y de fácil acceso para los productos de la empresa, se desarrolló este sistema, que permite buscar y ver en detalle conjuntos, componentes y kits de reparación de las soluciones de bombas que ofrece la empresa. El catálogo incluye filtros y relaciones entre productos, lo que facilita la navegación y la búsqueda de artículos específicos.`,
