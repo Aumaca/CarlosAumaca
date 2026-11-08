@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
+
+*/yarn.lock
+# Full-size video sources (over the GitHub 100 MB limit). The site uses the *_web.mp4 copies.
+src/assets/media/slider2/mynikki_video.mp4
+src/assets/media/psicoajuda/PsicoAjuda_amostra.mp4
